@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Applied probabilities"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://proba.pages.ensimag.fr/
+venue: "ENSIMAG"
+date: 2023-2024 and 2024-2025
+location: "Grenoble, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The aim of this course is to provide an introduction to the basic concepts of probability calculus and the modeling of random phenomena. The aim of this course is to enable students to use probabilistic tools. Emphasis is placed on modeling principles, calculation and simulation techniques that are useful for engineers. The course favors an example-based approach, and the concepts studied are systematically illustrated with concrete examples. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I taught for 16h in fall 2023 and fall 2024.
