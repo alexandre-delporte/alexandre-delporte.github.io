@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: https://proba.pages.ensimag.fr/
 venue: "ENSIMAG"
-date: 2023-2024 and 2024-2025
+date: 2023-09-01
 location: "Grenoble, France"
 ---
 
