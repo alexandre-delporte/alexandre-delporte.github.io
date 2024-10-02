@@ -12,7 +12,7 @@ title                    : "Alexandre Delporte / PhD student"
 title_separator          : "-"
 name                     : &name "Alexandre Delporte"
 description              : &description "PhD student in Laboratoire Jean-Kuntzmann in Grenoble."
-url                      : "https://alexandre-delporte.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alexandre-delporte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexandre-delporte/alexandre-delporte.github.io"
 
