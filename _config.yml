@@ -12,7 +12,7 @@ title                    : "Alexandre Delporte / PhD student"
 title_separator          : "-"
 name                     : &name "Alexandre Delporte"
 description              : &description "PhD student in Laboratoire Jean-Kuntzmann in Grenoble."
-url                      : https://alexandredelporte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://alexandre-delporte.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexandre-delporte/alexandredelporte.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Alexandre Delporte"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD student in Laboratoire Jean-Kuntzmann in Grenoble."
+  bio              : "PhD student in Laboratoire Jean-Kuntzmann in Grenoble."
   location         : "Grenoble, France"
   employer         : "Université Grenoble-Alpes"
   uri              : # URL
