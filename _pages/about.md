@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 This is my personal website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io). I am a PhD student in laboratory Jean-Kuntzmann in Grenoble, supervised by [Adeline Samson](http://adeline.e-samson.org/). I am interested in statistics, state-space models, and stochastic differential equations applied to movement ecology. I also collaborate with [Susanne Ditlevsen](https://web.math.ku.dk/~susanne/). 
-======
+
+
  
