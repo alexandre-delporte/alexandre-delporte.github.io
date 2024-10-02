@@ -4,10 +4,7 @@ collection: preprint
 category: manuscripts
 permalink: https://hal.science/hal-04684712
 excerpt: 
-date: 2024-09-01
-venue: 
-slidesurl: 
-paperurl: 
+date: 2024-09-01 
 citation: 'Alexandre Delporte, Susanne Ditlevsen, Adeline Samson (2024). &quot; https://hal.science/hal-04684712.'
 ---
 
