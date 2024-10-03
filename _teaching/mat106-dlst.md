@@ -8,6 +8,6 @@ date: 2024-09-01
 location: "Grenoble, France"
 ---
 
-30h with undergraduate students in physics
+30h with undergraduate students in [physics](https://dlst.univ-grenoble-alpes.fr/formations/premiere-annee-de-licence-a-grenoble/physique-chimie-mecanique-mathematiques-pcmm-/physique-chimie-mecanique-mathematiques-pcmm--125315.kjsp)
 
 
