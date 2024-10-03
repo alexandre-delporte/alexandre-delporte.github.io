@@ -21,7 +21,7 @@ repository               : "alexandre-delporte/alexandre-delporte.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpeg"
   name             : "Alexandre Delporte"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Laboratoire Jean-Kuntzmann in Grenoble."
