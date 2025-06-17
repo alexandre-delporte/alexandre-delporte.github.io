@@ -16,6 +16,6 @@ main:
     
   - title: "CV"
     url: /cv/
-   
-  - title: "LJK 2025 Chess Tournament"
-    url: /chess/
+  
+  #- title: "LJK 2025 Chess Tournament"
+    #url: /chess/
