@@ -1,5 +1,5 @@
 ---
-title: "VARYING COEFFICIENTS CORRELATED VELOCITY MODELS IN COMPLEX LANDSCAPES WITH BOUNDARIES APPLIED TO NARWHAL RESPONSES TO NOISE EXPOSURE"
+title: "Varying coefficients correlated velocity models in complex landscaped with boundaries applied to narwhal responses to noise exposure"
 collection: preprint
 category: manuscripts
 permalink: https://hal.science/hal-04684712

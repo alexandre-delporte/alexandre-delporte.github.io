@@ -1,0 +1,81 @@
+/* Chessboard background */
+/* Chessboard with more visible squares */
+.chess-board-bg {
+  background:
+    linear-gradient(45deg, #f0d9b5 25%, transparent 25%),
+    linear-gradient(-45deg, #f0d9b5 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #f0d9b5 75%),
+    linear-gradient(-45deg, transparent 75%, #f0d9b5 75%);
+  background-size: 30px 30px; /* Smaller = more squares */
+  background-position: 0 0, 0 15px, 15px -15px, -15px 0px;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+/* Elegant fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+  font-family: 'Lora', serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Cinzel', serif;
+  letter-spacing: 1px;
+}
+
+/* Tournament table styling */
+.chess-pairings {
+  width: 100%;
+  margin: 2rem 0;
+  border: 3px solid #333;
+  
+  th {
+    background: #5d4037;
+    color: white;
+    padding: 12px;
+    font-family: 'Cinzel';
+    text-align: center;
+  }
+  
+  td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+    background: rgba(255,255,255,0.8);
+    
+    &:nth-child(2), &:nth-child(4) {
+      font-weight: bold;
+      text-align: left;
+      padding-left: 20px;
+    }
+  }
+  
+  tr:nth-child(even) td {
+    background: rgba(240, 217, 181, 0.5);
+  }
+}
+
+/* Chess piece icons before names */
+.chess-pairings td:nth-child(2)::before {
+  content: "♔";
+  margin-right: 8px;
+  color: #5d4037;
+}
+
+.chess-pairings td:nth-child(4)::before {
+  content: "♚";
+  margin-right: 8px;
+  color: #000;
+}
+
+/* Responsive tables */
+@media (max-width: 768px) {
+  .chess-pairings {
+    font-size: 0.9rem;
+    
+    td, th {
+      padding: 8px 4px;
+    }
+  }
+}
