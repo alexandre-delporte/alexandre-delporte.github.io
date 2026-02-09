@@ -8,5 +8,5 @@ date: 2025-01-09
 location: "Grenoble, France"
 ---
 
-18.5 hours for first-year ENSIMAG students.  
+18.5 hours for second-year ENSIMAG students.  
 Introduction to Bayesian statistics and statistical learning. 
