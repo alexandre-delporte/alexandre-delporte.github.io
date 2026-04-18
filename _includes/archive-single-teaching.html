@@ -1,0 +1,17 @@
+{% include base_path %}
+
+<div class="teaching-entry">
+  <div class="teaching-title">
+    {% if post.url contains "://" %}
+      <a href="{{ post.url }}" target="_blank" rel="noopener">{{ post.title }}</a>
+    {% else %}
+      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+    {% endif %}
+  </div>
+  <div class="teaching-meta">
+    {{ post.type }}{% if post.venue %} &mdash; <em>{{ post.venue }}</em>{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+  </div>
+  {% if post.excerpt %}
+    <div class="teaching-desc">{{ post.excerpt | markdownify }}</div>
+  {% endif %}
+</div>
