@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alexandre Delporte / PhD student"
+title                    : "Alexandre Delporte / Postdoctoral researcher"
 title_separator          : "-"
 name                     : &name "Alexandre Delporte"
-description              : &description "PhD student in Laboratoire Jean-Kuntzmann in Grenoble."
+description              : &description "Postdoctoral researcher at LECA in Chambéry."
 url                      : https://alexandre-delporte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexandre-delporte/alexandre-delporte.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "alexandre.jpg"
   name             : "Alexandre Delporte"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Laboratoire Jean-Kuntzmann in Grenoble."
-  location         : "Grenoble, France"
-  employer         : "Université Grenoble-Alpes"
+  bio              : "Postdoctoral researcher at LECA in Chambéry."
+  location         : "Chambéry, France"
+  employer         : "CNRS"
   uri              : # URL
   email            : "alexandre.delporte@univ-grenoble-alpes.fr" 
 
